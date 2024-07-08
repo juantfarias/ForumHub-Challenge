@@ -88,4 +88,4 @@ Projeto desenvolvido por [Juan Farias](https://github.com/juantfarias). Utilizad
 
 ---
 
-![badge forumhub](https://github.com/juantfarias/.png)
+![badge forumhub](https://github.com/juantfarias/ForumHub-Challenge/blob/main/BadgeForumHub.png)
