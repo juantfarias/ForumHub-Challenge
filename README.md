@@ -16,7 +16,7 @@ FórumHub é uma API REST desenvolvida em Spring Boot para um fórum de discuss�
 
 As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do projeto:
 
-- **[Java 22](https://www.oracle.com/java)**
+- **[Java 17](https://www.oracle.com/java)**
 - **[Spring Boot 3](https://spring.io/projects/spring-boot)**
 - **[Spring Security](https://spring.io/projects/spring-security)**
 - **[JWT (JSON Web Token)](https://jwt.io)**
